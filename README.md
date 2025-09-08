@@ -11,7 +11,7 @@
 
 - [awesome](https://github.com/geekeryy/awesome)：精心整理的资源库，收集了各种实用工具、博客、教程以及Github上的有趣项目。持续更新，为你提供最新、最有价值的资源。
 
-- [process-monitor](https://github.com/geekeryy/process-monitor)：一个用于监控进程的工具，可以监控进程的运行状态、内存使用情况、CPU使用情况等，并生成测试报告和监控图表。
+- [process-monitor](https://github.com/geekeryy/process-monitor)：一个用于监控进程的工具，可以监控进程的运行状态、内存使用情况、CPU使用情况等，并支持生成测试报告和监控图表。
 
 - [ak](https://github.com/geekeryy/ak)：一款专为重度终端用户设计的轻量级 Bash 工具集
 
@@ -28,10 +28,11 @@
 
 ## 🌱 当前学习
 
+- 🧪 eBPF应用开发
+- 🤖 AI/ML 在开发中的应用
 - 🔥 云原生技术栈
 - 🚀 微服务架构优化
 - 📊 可观测性系统设计
-- 🤖 AI/ML 在开发中的应用
 
 ## 📫 联系方式
 
