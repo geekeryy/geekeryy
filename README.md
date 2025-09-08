@@ -34,11 +34,6 @@
 - 🚀 微服务架构优化
 - 📊 可观测性系统设计
 
-## 📫 联系方式
-
-- 💼 Email: [mail@jiangyang.online](mailto:mail@jiangyang.online)
-- 🌐 博客: [blog.jiangyang.online](https://blog.jiangyang.online)
-
 ---
 
 ⭐ 如果我的项目对你有帮助，请给个Star支持一下！
